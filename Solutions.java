@@ -1,4 +1,6 @@
-class Solution {
+import java.util.Arrays;
+
+class Solutions {
     public String longestCommonPrefix(String[] strs) {
         Arrays.sort(strs);
         int l=0,r=0;

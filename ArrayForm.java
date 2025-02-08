@@ -1,3 +1,6 @@
+import java.util.LinkedList;
+import java.util.List;
+
 class ArrayForml {
     public List<Integer> addToArrayForm(int[] num, int k) {
         LinkedList<Integer> res=new LinkedList<>();

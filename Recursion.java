@@ -1,6 +1,6 @@
-class Main {
+class Recursion {
   public static void main(String[] args) {
-    Main recursion = new Main();
+	  Recursion recursion = new Recursion();
     var rec = recursion.factorial(-2);
     System.out.println(rec);
   }
